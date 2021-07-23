@@ -2,7 +2,7 @@ In this folder, you will find all the needed files to assign taxonomic informati
 
 This is the list of files you need to download and copy into your taxo dir:
 
-Reference database un COI Leray fragments in fasta format :
+Reference database of sequences of COI Leray fragments in fasta format :
 1.- DUFA_COLR_YYYYMMDD.fasta (Current version: 20210723)
 
 Taxonomy database from NCBI with local taxids added with obitaxonomy (Current version:: 20210720):
